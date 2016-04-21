@@ -1,0 +1,1 @@
+Functions are easy to use; they allow complicated programs to be parcelled up into small blocks, each of which is easier to write, read, and maintain. We have already encountered the function main and made use of I/O and mathematical routines from the standard libraries. Now let's look at some other library functions, and how to write and use our own.
